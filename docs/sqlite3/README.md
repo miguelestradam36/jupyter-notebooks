@@ -14,7 +14,13 @@ Review some about how the connection with the snowflake database is established 
 
 | Table | Primary Key |
 | ----------- | ----------- |
-| Header | Title |
+| Clients | ClientID |
+| Colors | ColorID |
+| Countries | CountryID |
+| DateDimension | DateKey |
+| InvoiceLines | InvoiceLineID |
+| Invoices | InvoiceID |
+| Stocks | StockID |
 
 ## Sqlite3 Databases Usage
 
