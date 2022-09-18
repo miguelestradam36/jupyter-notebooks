@@ -1,4 +1,4 @@
-# Jupyter Notebooks
+# Jupyter Notebooks :bookmark_tabs:
 
 ## About
 
@@ -14,7 +14,7 @@ make jupyter-exec
 ```
 For a first use, to automatically create the **Python** needed environment
 
-## Documentation 
+## Documentation :books:
 To be directed to the docs main readme
 - Press the following link: [Documentation Link](docs/)
 
