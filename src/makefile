@@ -1,3 +1,3 @@
 .PHONY: jupyter-exec
 jupyter-exec: # Jupter automatic execution
-	@jupyter nbconvert --to notebook --execute reports.ipynb --output output/reports.ipynb
+	@jupyter nbconvert --to notebook --execute notebooks/reports.ipynb --output notebooks/output/reports.ipynb
