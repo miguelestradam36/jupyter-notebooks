@@ -1,24 +1,25 @@
 # Jupyter Notebooks Documentation :bar_chart:
 
-## About :bell:
+## About the usage of jupyter :bell:
 
-Review some about how the connection with the snowflake database is established with this python connector.
+The implementation of jupyter notebooks could result benefitial, due to the following circumstances:
 
-- [x] Indexed tables
-- [x] Relational Database Model
-- [x] Easy to move around
+- [x] Preview of results
+- [x] Relational Database Model connector
+- [ ] Python scripting
+- [x] Plannified and ordered execution of scripts
 
-![Sqlite3 logo](../img/jupyter-logo.webp)
+![Jupyter logo](../img/jupyter-logo.webp)
 
 ### Jupyter Notebook Blocks :envelope:
 
 | SQL Script | Functionality |
 | ----------- | ----------- |
-| *Context configuration* | Automation of the execution and output of **Jupyter Notebooks** |
-| *Statement 1* | Automation of the execution and output of **Jupyter Notebooks** |
-| *Statement 2* | Automation of the execution and output of **Jupyter Notebooks** |
-| *Statement 3* | Automation of the execution and output of **Jupyter Notebooks** |
+| *Context configuration* | Automation of the set-up of the database structure |
+| *Statement 1* | Preview the result of this statement on **Jupyter Notebooks** |
+| *Statement 2* | Preview the result of this statement on **Jupyter Notebooks** |
+| *Statement 3* | Preview the result of this statement on **Jupyter Notebooks** |
 
-### Shell Script Automation
+### Save your results! :book:
 
-Automate the execution of the various scripts included in this application through the usage of **MAKE GNU**
+Save each **notebook** in the output folder, this way, be able to search into previous results easier.
