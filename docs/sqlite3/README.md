@@ -1,6 +1,6 @@
-# Data Documentation
+# Data Documentation :file_folder:
 
-## About Sqlite usage on this project
+## About Sqlite usage on this project :books:
 
 Review some about how the connection with the snowflake database is established with this python connector.
 
@@ -24,10 +24,10 @@ Review some about how the connection with the snowflake database is established 
 | Invoices | InvoiceID |
 | Stocks | StockID |
 
-### Sqlite3 Databases Usage
+### Databases Usage
 
-Review some about how the data architecture of this project was created
+Some things you should know about **Sqlite3**:
 
-### Shell Script Automation
-
-Automate the execution of the various scripts included in this application through the usage of **MAKE GNU**
+- [x] Easy to manage and move around
+- [x] Many connectors available
+- [x] Light weight

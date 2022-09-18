@@ -22,7 +22,3 @@ Review some about how the data architecture of this project was created
 Automate the execution of the various scripts included in this application through the usage of **MAKE GNU**
 
 [Makefile Documentation](makefile/README.md)
-
-### Authors
-
-- Miguel Estrada Murillo: [miguelestradam36@gmail.com](mailto:miguelestradam36@gmail.com)
