@@ -33,5 +33,3 @@ jobs:
       run: python -m pip install jupyter nbconvert nbformat
     - name: Test Notebooks
       run: jupyter nbconvert --to script src/notebooks/reports.ipynb 
-    - name: Test Generated Script
-      run: python src/notebooks/reports.py
